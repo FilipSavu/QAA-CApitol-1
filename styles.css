@@ -1,0 +1,15 @@
+.javascript {
+    color: blue;
+}
+
+#java{
+    color: brown;
+}
+
+#java P{
+color: aqua;
+}
+
+a[href]{
+    color:black
+}
