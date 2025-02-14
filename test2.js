@@ -13,4 +13,4 @@ const extrageNumeStudenti = (studenti) => studenti.map(student => student.name);
 const numeStudenti = extrageNumeStudenti(studenti);
 
 console.log("Array original de studenți:", studenti);
-console.log("Array cu numele studenților:", numeStudenti);
+console.log("Array doar cu numele studenților:", numeStudenti);
