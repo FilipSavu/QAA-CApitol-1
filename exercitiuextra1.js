@@ -7,7 +7,7 @@
 const produseRON = [
     { name: "Mere", pretRON: 66.3 },
     { name: "Banane", pretRON: 70},
-    { name: "Portocale", pretRON: 28.5}, // Corectat: pretRON în loc de preRON
+    { name: "Portocale", pretRON: 28.5}, 
 ];
 
 // Functia care converteste preturile în EUR
