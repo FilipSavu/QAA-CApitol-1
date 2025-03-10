@@ -4,12 +4,12 @@ const raftcarti = {
     
     // Metoda care returneaza lista de autori
     getAuthors: function() {
-        return this.authors; // 'this' se refera la obiectul 'bookshelf'
+        return this.authors; // 'this' se refera la obiectul 'raftcarti'
     },
     
     // Metoda care adauga un autor in lista
     addAuthor: function(authorName) {
-        this.authors.push(authorName); // 'this' se refera la obiectul 'bookshelf'
+        this.authors.push(authorName); // 'this' se refera la obiectul 'raftcarti'
     }
 };
 
